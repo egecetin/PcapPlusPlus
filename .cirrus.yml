@@ -5,7 +5,7 @@ task:
       image_family: freebsd-12-3
       image_family: freebsd-13-0
   update_script: IGNORE_OSVERSION=yes pkg update -f
-  install_script: 
+  install_script:
     - pkg install -y libpcap bash gsed gmake
     - python -m ensurepip
     - python -m pip install -r Tests/ExamplesTest/requirements.txt
@@ -86,7 +86,7 @@ task:
   configure_script:
     - cd PcapPlusPlus
     - ./configure-linux.sh --default
-  build_script: 
+  build_script:
     - cd PcapPlusPlus
     - make all
   build_documentation_script:
@@ -102,5 +102,5 @@ task:
       git config user.email "${GITHUB_EMAIL}"
       git add .
       git commit -m "Update API documentation for commit ${CIRRUS_CHANGE_IN_REPO}"
-      git push --quiet "https://${GITHUB_TOKEN}@github.com/PcapPlusPlus/pcapplusplus.github.io" master      
+      git push --quiet "https://${GITHUB_TOKEN}@github.com/PcapPlusPlus/pcapplusplus.github.io" master
     fi

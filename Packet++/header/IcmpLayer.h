@@ -741,7 +741,7 @@ namespace pcpp
 		// ICMP_PARAM_PROBLEM
 		if (type == 12)
 			return dataLen >= sizeof(icmp_param_problem);
-		
+
 		// ICMP_ROUTER_ADV
 		if (type == 9)
 			return dataLen >= sizeof(icmp_router_advertisement_hdr);

@@ -750,4 +750,3 @@ PTF_TEST_CASE(TestPcapFileReadLinkTypeIPv4)
 	PTF_ASSERT_FALSE(readerDev.isOpened());
 
 } // TestPcapFileReadLinkTypeIPv4
-
