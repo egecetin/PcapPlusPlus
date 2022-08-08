@@ -13540,6 +13540,7 @@ PCPP_SHORT_MACS
 08:42:96,Mobile Technology Solutions LLC
 08:45:d1,Cisco Systems, Inc
 08:46:56,Veo-Labs
+08:46:c7,Fiberhome Telecommunication Technologies Co.,LTD
 08:47:4c,Nokia
 08:47:d0,Nokia Shanghai Bell Co., Ltd.
 08:48:2c,Raycore Taiwan Co., LTD.
@@ -14512,6 +14513,7 @@ PCPP_SHORT_MACS
 14:60:cb,Apple, Inc.
 14:61:02,Alps Alpine
 14:61:2f,Avaya Inc
+14:61:a4,Honor Device Co., Ltd.
 14:63:08,Jabil Circuit (Shanghai) Ltd.
 14:65:6a,Huawei Technologies Co.,Ltd
 14:66:b7,Advanced Design Technology Pty Ltd
@@ -15816,6 +15818,7 @@ PCPP_SHORT_MACS
 24:b6:b8,Friem Spa
 24:b6:fd,Dell Inc.
 24:b7:2a,China Dragon Technology Limited
+24:b7:da,Fiberhome Telecommunication Technologies Co.,LTD
 24:b8:8c,Crenus Co.,Ltd.
 24:b8:d2,Opzoon Technology Co.,Ltd.
 24:ba:13,Riso Kagaku Corporation
@@ -17125,6 +17128,7 @@ PCPP_SHORT_MACS
 34:ef:b6,Edgecore Networks Corporation
 34:f0:ca,Shenzhen Linghangyuan Digital Technology Co.,Ltd.
 34:f1:50,Hui Zhou Gaoshengda Technology Co.,LTD
+34:f2:23,Fujian Newland Communication Science Technology Co.,Ltd.
 34:f3:9a,Intel Corporate
 34:f3:9b,WizLAN Ltd.
 34:f6:2d,SHARP Corporation
@@ -17262,6 +17266,7 @@ PCPP_SHORT_MACS
 38:61:a5,Grabango Co
 38:63:bb,Hewlett Packard
 38:63:f6,3Nod Multimedia(Shenzhen)Co.,Ltd
+38:65:04,Honor Device Co., Ltd.
 38:65:b2,Apple, Inc.
 38:66:45,OOSIC Technology CO.,Ltd
 38:66:f0,Apple, Inc.
@@ -17456,6 +17461,7 @@ PCPP_SHORT_MACS
 3a:35:41,Raspberry Pi (Trading) Ltd
 3a:5a:27,Shenzhen Longsys Electronics Co.,Ltd.
 3a:5e:03,Cirrus Data Solutions, Inc
+3a:76:5d,NewCoSemi(Beijing) Technology Co., Ltd
 3a:78:ca,SoundTalks NV
 3a:79:6e,LX Semicon co.,Ltd.
 3a:a3:f8,IEEE 802.1 Chair
@@ -17523,6 +17529,7 @@ PCPP_SHORT_MACS
 3c:2c:30,Dell Inc.
 3c:2c:94,杭州德澜科技有限公司（HangZhou Delan Technology Co.,Ltd）
 3c:2c:99,Edgecore Networks Corporation
+3c:2c:a6,Beijing Xiaomi Electronics Co.,Ltd
 3c:2d:b7,Texas Instruments
 3c:2e:f9,Apple, Inc.
 3c:2e:ff,Apple, Inc.
@@ -18292,6 +18299,7 @@ PCPP_SHORT_MACS
 44:b4:62,Flextronics Tech.(Ind) Pvt Ltd
 44:b4:b2,Amazon Technologies Inc.
 44:b6:be,Cisco Systems, Inc
+44:b7:d0,Microchip Technologies Inc
 44:b9:94,Douglas Lighting Controls
 44:ba:46,Sichuan Tianyi Comheart Telecom Co.,LTD
 44:bb:3b,Google, Inc.
@@ -20282,6 +20290,7 @@ PCPP_SHORT_MACS
 60:56:7d,AM Telecom co., Ltd.
 60:56:99,Private
 60:57:18,Intel Corporate
+60:57:47,Cig Shanghai Co Ltd
 60:57:7d,eero inc.
 60:58:01,Shandong ZTop Microelectronics Co., Ltd.
 60:5b:30,Dell Inc.
@@ -20775,6 +20784,7 @@ PCPP_SHORT_MACS
 64:e6:25,Woxu Wireless Co., Ltd
 64:e6:82,Apple, Inc.
 64:e7:d8,Samsung Electronics Co.,Ltd
+64:e8:33,Espressif Inc.
 64:e8:4f,Serialway Communication Technology Co. Ltd
 64:e8:81,Aruba, a Hewlett Packard Enterprise Company
 64:e8:92,Morio Denki Co., Ltd.
@@ -21676,6 +21686,7 @@ PCPP_SHORT_MACS
 70:c7:6f,Inno S
 70:c7:f2,Huawei Technologies Co.,Ltd
 70:c8:33,Wirepas Oy
+70:c9:32,Dreame Technology (Suzhou) Limited
 70:c9:4e,Liteon Technology Corporation
 70:c9:c6,Cisco Systems, Inc
 70:ca:4d,Shenzhen lnovance Technology Co.,Ltd.
@@ -22210,6 +22221,7 @@ PCPP_SHORT_MACS
 78:6a:1f,ARRIS Group, Inc.
 78:6a:89,Huawei Technologies Co.,Ltd
 78:6c:1c,Apple, Inc.
+78:6c:84,Amazon Technologies Inc.
 78:6d:94,Palo Alto Networks
 78:6d:eb,GE Lighting
 78:70:52,Welotec GmbH
@@ -22601,6 +22613,7 @@ PCPP_SHORT_MACS
 7c:8f:de,DWnet Technologies(Suzhou) Corporation
 7c:91:22,Samsung Electronics Co.,Ltd
 7c:94:2a,Huawei Technologies Co.,Ltd
+7c:94:9f,Shenzhen iComm Semiconductor CO.,LTD
 7c:94:b2,Philips Healthcare PCCI
 7c:95:b1,Extreme Networks, Inc.
 7c:95:f3,Cisco Systems, Inc
@@ -23321,6 +23334,7 @@ PCPP_SHORT_MACS
 84:e4:d9,Shenzhen NEED technology Ltd.
 84:e5:d8,Guangdong UNIPOE IoT Technology Co.,Ltd.
 84:e6:29,Bluwan SA
+84:e6:57,Sony Interactive Entertainment Inc.
 84:e7:14,Liang Herng Enterprise,Co.Ltd.
 84:e8:92,Actiontec Electronics, Inc
 84:e9:86,Huawei Device Co., Ltd.
@@ -24276,6 +24290,7 @@ PCPP_SHORT_MACS
 90:f6:52,Tp-Link Technologies Co.,Ltd.
 90:f7:2f,Phillips Machine & Welding Co., Inc.
 90:f7:b2,New H3C Technologies Co., Ltd
+90:f8:2e,Amazon Technologies Inc.
 90:f8:91,Kaonmedia CO., LTD.
 90:f9:70,Huawei Technologies Co.,Ltd
 90:f9:b7,Huawei Technologies Co.,Ltd
@@ -24491,6 +24506,7 @@ PCPP_SHORT_MACS
 94:ba:31,Visiontec da Amazônia Ltda.
 94:ba:56,Shenzhen Coship Electronics Co., Ltd.
 94:bb:ae,Husqvarna AB
+94:be:09,China Mobile Group Device Co.,Ltd.
 94:be:46,Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
 94:bf:1e,eflow Inc. / Smart Device Planning and Development Division
 94:bf:2d,Apple, Inc.
@@ -25151,6 +25167,7 @@ PCPP_SHORT_MACS
 9c:db:cb,Wuhan Funshion Online Technologies Co.,Ltd
 9c:dc:71,Hewlett Packard Enterprise
 9c:dd:1f,Intelligent Steward Co.,Ltd
+9c:de:4d,ML vision Co.,LTD
 9c:df:03,Harman/Becker Automotive Systems GmbH
 9c:df:b1,Shenzhen Crave Communication Co., LTD
 9c:e0:41,Nokia
@@ -26110,6 +26127,7 @@ aa:00:02,DEC
 aa:00:03,DEC
 aa:00:04,DEC
 aa:0f:85,Yamaichi Electronics
+aa:14:6b,IronWiFi
 aa:34:d4,CDVI Wireless SpA
 aa:38:c7,Kaloom inc
 aa:54:8b,Tintri
@@ -26366,6 +26384,7 @@ ac:c2:5d,Fiberhome Telecommunication Technologies Co.,LTD
 ac:c2:ec,Clt Int'L Ind. Corp.
 ac:c3:3a,Samsung Electronics Co.,Ltd
 ac:c3:58,Continental Automotive Czech Republic s.r.o.
+ac:c4:a9,Fiberhome Telecommunication Technologies Co.,LTD
 ac:c4:bd,Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 ac:c5:1b,Zhuhai Pantum Electronics Co., Ltd.
 ac:c5:95,Graphite Systems
@@ -26795,6 +26814,7 @@ b4:30:c0,York Instruments Ltd
 b4:31:61,Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 b4:31:b8,Aviwest
 b4:34:6c,Matsunichi Digital Technology (Hong Kong) Limited
+b4:35:22,Silicon Laboratories
 b4:35:64,Fujian Tian Cheng Electron Science & Technical Development Co.,Ltd.
 b4:35:f7,Zhejiang Pearmain Electronics Co.ltd.
 b4:36:a9,Fibocom Wireless Inc.
@@ -27350,6 +27370,7 @@ ba:c8:c4,Transponder & Reader Engineered Systems, Inc
 ba:f2:1c,Iso/Tc22/Sc31
 bc:02:00,Stewart Audio
 bc:02:4a,HMD Global Oy
+bc:02:6e,Silicon Laboratories
 bc:03:58,Intel Corporate
 bc:03:a7,Mfp Michelin
 bc:05:43,AVM GmbH
@@ -27568,6 +27589,7 @@ bc:b2:2b,EM-Tech
 bc:b3:08,Hongkong Ragentek Communication Technology Co.,Limited
 bc:b8:52,Cybera, Inc.
 bc:b8:63,Apple, Inc.
+bc:b9:23,Alta Networks
 bc:ba:c2,Hangzhou Hikvision Digital Technology Co.,Ltd.
 bc:ba:e1,AREC Inc.
 bc:bb:c9,Kellendonk Elektronik GmbH
@@ -28221,6 +28243,7 @@ c4:e3:9f,Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 c4:e5:06,Piper Networks, Inc.
 c4:e5:10,Mechatro, Inc.
 c4:e5:32,Arcadyan Corporation
+c4:e5:b1,Suzhou PanKore Integrated Circuit Technology Co. Ltd.
 c4:e7:be,SCSpro Co.,Ltd
 c4:e9:0a,D-Link International
 c4:e9:2f,AB Sciex
@@ -29387,7 +29410,7 @@ d4:ad:20,Jinan USR IOT Technology Limited
 d4:ad:2d,Fiberhome Telecommunication Technologies Co.,LTD
 d4:ad:71,Cisco Systems, Inc
 d4:ad:bd,Cisco Systems, Inc
-d4:ad:fc,Private
+d4:ad:fc,Shenzhen Intellirocks Tech co.,ltd
 d4:ae:05,Samsung Electronics Co.,Ltd
 d4:ae:52,Dell Inc.
 d4:af:f7,Arista Networks
@@ -29463,6 +29486,7 @@ d4:ee:de,Sichuan Tianyi Comheart Telecom Co.,LTD
 d4:f0:27,Trust Power Ltd.
 d4:f0:57,Nintendo Co.,Ltd
 d4:f0:b4,Napco Security Technologies
+d4:f0:c9,KYOCERA Document Solutions Inc.
 d4:f0:ea,Beijing Xiaomi Mobile Software Co., Ltd
 d4:f1:43,IPROAD.,Inc
 d4:f2:07,DIAODIAO(Beijing)Technology CO.,Ltd
@@ -30242,6 +30266,7 @@ e0:70:ea,HP Inc.
 e0:72:0a,Shenzhen SuperElectron Technology Co.,Ltd.
 e0:73:5f,Nucom
 e0:75:0a,Alpsalpine Co,.Ltd
+e0:75:26,China Dragon Technology Limited
 e0:75:7d,Motorola Mobility LLC, a Lenovo Company
 e0:75:aa,Beijing Jingling Information System Technology Co., Ltd.
 e0:76:d0,AMPAK Technology, Inc.
@@ -30979,6 +31004,7 @@ e8:ed:d6,Fortinet, Inc.
 e8:ed:f3,Cisco Systems, Inc
 e8:ee:cc,Fantasia Trading LLC
 e8:ef:05,Mind Tech International Limited
+e8:ef:22,Siemens Numerical Control Ltd., Nanjing
 e8:ef:89,OPMEX Tech.
 e8:f1:b0,Sagemcom Broadband SAS
 e8:f2:26,Millson Custom Solutions Inc.
@@ -31247,6 +31273,7 @@ ec:d6:8a,Shenzhen JMicron Intelligent Technology Developmen
 ec:d9:25,Rami
 ec:d9:50,Irt Sa
 ec:d9:d1,Shenzhen TG-NET Botone Technology Co.,Ltd.
+ec:da:3b,Espressif Inc.
 ec:da:59,New H3C Technologies Co., Ltd
 ec:db:86,Api-K
 ec:de:3d,Lamprey Networks, Inc.
@@ -32141,6 +32168,7 @@ f8:a9:d0,LG Electronics (Mobile Communications)
 f8:a9:de,Puissance Plus
 f8:aa:3f,DWnet Technologies(Suzhou) Corporation
 f8:aa:8a,Axview Technology (Shenzhen) Co.,Ltd
+f8:aa:b3,DESSMANN (China) Machinery & Electronic Co., Ltd
 f8:ab:05,Sagemcom Broadband SAS
 f8:ab:82,Xiaomi Communications Co Ltd
 f8:ab:e5,shenzhen worldelite electronics co., LTD
@@ -41537,6 +41565,7 @@ MASK 36
 8c:1f:64:2f:50:00,Florida R&D Associates LLC
 8c:1f:64:2f:b0:00,MB connect line GmbH Fernwartungssysteme
 8c:1f:64:2f:d0:00,Enestone Corporation
+8c:1f:64:2f:e0:00,VERSITRON, Inc.
 8c:1f:64:30:00:00,Abbott Diagnostics Technologies AS
 8c:1f:64:30:10:00,Agar Corporation Inc.
 8c:1f:64:30:40:00,Jemac Sweden AB
@@ -41550,6 +41579,7 @@ MASK 36
 8c:1f:64:32:80:00,Com Video Security Systems Co., Ltd.
 8c:1f:64:33:00:00,Vision Systems Safety Tech
 8c:1f:64:34:d0:00,biosilver.co.,ltd
+8c:1f:64:35:40:00,Paul Tagliamonte
 8c:1f:64:35:c0:00,Opgal Optronic Industries ltd
 8c:1f:64:35:d0:00,Security&Best
 8c:1f:64:36:50:00,Vector Technologies, Llc
@@ -41621,6 +41651,7 @@ MASK 36
 8c:1f:64:4e:70:00,Circuit Solutions
 8c:1f:64:4e:c0:00,XOR UK Corporation Limited
 8c:1f:64:4f:00:00,Tieline Research Pty Ltd
+8c:1f:64:4f:90:00,Photonic Science and Engineering Ltd
 8c:1f:64:4f:a0:00,Sanskruti
 8c:1f:64:50:40:00,EA Elektroautomatik GmbH & Co. KG
 8c:1f:64:50:a0:00,Bellco Trading Company (Pvt) Ltd
@@ -41732,6 +41763,7 @@ MASK 36
 8c:1f:64:72:60:00,Dave Srl
 8c:1f:64:72:a0:00,Dorlet Sau
 8c:1f:64:72:c0:00,Antai technology Co.,Ltd
+8c:1f:64:73:10:00,ehoosys Co.,LTD.
 8c:1f:64:73:70:00,Vytahy-Vymyslicky s.r.o.
 8c:1f:64:73:90:00,Monnit Corporation
 8c:1f:64:73:b0:00,Fink Zeitsysteme GmbH
@@ -41775,6 +41807,7 @@ MASK 36
 8c:1f:64:7d:d0:00,TAKASAKI KYODO COMPUTING CENTER Co.,LTD.
 8c:1f:64:7d:e0:00,SOCNOC AI Inc
 8c:1f:64:7e:00:00,Colombo Sales & Engineering, Inc.
+8c:1f:64:7e:70:00,robert juliat
 8c:1f:64:7e:c0:00,Methods2Business B.V.
 8c:1f:64:7e:e0:00,Orange Precision Measurement LLC
 8c:1f:64:7f:10:00,AEM Singapore Pte Ltd
@@ -41847,6 +41880,7 @@ MASK 36
 8c:1f:64:97:10:00,Infrasafe/ Advantor Systems
 8c:1f:64:97:30:00,Dorsett Technologies Inc
 8c:1f:64:97:c0:00,MB connect line GmbH Fernwartungssysteme
+8c:1f:64:97:d0:00,KSE GmbH
 8c:1f:64:98:40:00,Abacus Peripherals Pvt Ltd
 8c:1f:64:98:f0:00,Breas Medical AB
 8c:1f:64:99:10:00,DB Systel GmbH
@@ -41937,6 +41971,7 @@ MASK 36
 8c:1f:64:bc:00:00,GS Elektromedizinsiche Geräte G. Stemple GmbH
 8c:1f:64:bc:20:00,Huz Electronics Ltd
 8c:1f:64:bc:60:00,Chengdu ZiChen Time&Frequency Technology Co.,Ltd
+8c:1f:64:bc:b0:00,A&T Corporation
 8c:1f:64:bc:c0:00,Sound Health Systems
 8c:1f:64:bd:30:00,IO Master Technology
 8c:1f:64:bd:60:00,NOVA Products GmbH
@@ -42007,6 +42042,7 @@ MASK 36
 8c:1f:64:d4:40:00,Monarch Instrument
 8c:1f:64:d4:a0:00,Caproc Oy
 8c:1f:64:d5:20:00,Critical Software SA
+8c:1f:64:d5:30:00,Gridnt
 8c:1f:64:d5:40:00,Grupo Epelsa S.L.
 8c:1f:64:d5:60:00,Wisdom Audio
 8c:1f:64:d5:e0:00,Integer.pl S.A.
@@ -42079,6 +42115,7 @@ MASK 36
 8c:1f:64:f2:c0:00,Tunstall A/S
 8c:1f:64:f3:10:00,International Water Treatment Maritime AS
 8c:1f:64:f3:20:00,Shenzhen INVT Electric Co.,Ltd
+8c:1f:64:f3:90:00,Weinan Wins Future Technology Co.,Ltd
 8c:1f:64:f3:b0:00,??????????
 8c:1f:64:f3:c0:00,Microlynx Systems Ltd
 8c:1f:64:f3:d0:00,Byte Lab Grupa d.o.o.
@@ -45877,8 +45914,20 @@ d0:76:50:c0:00:00,Electro-Motive Diesel
 d0:76:50:d0:00:00,tecnotron elekronik gmbh
 d0:76:50:e0:00:00,Revox Inc.
 d0:76:50:f0:00:00,Private
+d0:96:86:00:00:00,Sernet (Suzhou) Technologies Corporation
+d0:96:86:10:00:00,Provcom Ltd
+d0:96:86:20:00:00,TMLake Technology Ltd.,
+d0:96:86:30:00:00,Ephi B.V.
+d0:96:86:40:00:00,Houston Radar LLC
+d0:96:86:50:00:00,Annapurna labs
 d0:96:86:60:00:00,Shenzhen Ntmer Technology Co., Ltd.
 d0:96:86:70:00:00,Private
+d0:96:86:80:00:00,Energiekonzepte Deutschland GmbH
+d0:96:86:90:00:00,Camfil
+d0:96:86:a0:00:00,Hero Health Inc.
+d0:96:86:b0:00:00,Changsha keruijie lnformation Technology Co.,Ltd
+d0:96:86:c0:00:00,ECS s.r.l.
+d0:96:86:d0:00:00,CertusNet Information Technology Co.,LTD
 d0:9f:d9:00:00:00,Lemei Intelligent IOT (Shenzhen) Co., Ltd
 d0:9f:d9:10:00:00,elecgator bvba
 d0:9f:d9:20:00:00,Westar Display Technologies
