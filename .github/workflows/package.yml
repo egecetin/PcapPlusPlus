@@ -61,8 +61,17 @@ jobs:
       - name: Package
         run: cmake --build "$BUILD_DIR" --target package
 
+      - name: Generate hashes
+        run: |
+          echo "::set-output name=hashes::$(sha256sum ${{ env.BUILD_DIR }}/*.tar.gz ${{ env.BUILD_DIR }}/*.deb ${{ env.BUILD_DIR }}/*.rpm | base64 -w0)"
+
+      - name: Generate provenance
+        uses: slsa-framework/slsa-github-generator/.github/workflows/generator_generic_slsa3.yml@v1.2.0
+        with:
+          base64-subjects: "${{ needs.build.outputs.hashes }}"
+          upload-assets: true
+
       - name: Upload binaries to release
-        if: github.ref_type == 'tag'
         uses: ncipollo/release-action@v1
         with:
           draft: true
