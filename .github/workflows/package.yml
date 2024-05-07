@@ -58,10 +58,11 @@ jobs:
 
       - name: Package
         run: cmake --build "$BUILD_DIR" --target package
-
-      - name: Generate hashes
-        run: |
-          echo "::set-output name=hashes::$(sha256sum ${{ env.BUILD_DIR }}/*.tar.gz ${{ env.BUILD_DIR }}/*.deb ${{ env.BUILD_DIR }}/*.rpm | base64 -w0)"
+      
+      - name: Generate artifact attestation
+        uses: actions/attest-build-provenance@v1
+        with:
+          subject-path: "${{ env.BUILD_DIR }}/*.tar.gz,${{ env.BUILD_DIR }}/*.deb,${{ env.BUILD_DIR }}/*.rpm"
 
       - name: Upload binaries to release
         uses: ncipollo/release-action@v1
