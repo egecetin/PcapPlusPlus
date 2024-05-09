@@ -69,20 +69,24 @@ jobs:
         with:
           subject-path: "${{ env.BUILD_DIR }}/*.tar.gz,${{ env.BUILD_DIR }}/*.deb,${{ env.BUILD_DIR }}/*.rpm"
 
+      - name: Move attestation to artifact
+        run: mv "${{ steps.attestation.outputs.bundle-path }}" "${{ env.BUILD_DIR }}/"$(basename ${{ env.BUILD_DIR }}/*.tar.gz .tar.gz)".sigstore.json"
+        shell: bash
+
       - uses: actions/upload-artifact@v4
         with:
           name: pcpp-sign-attestation.sigstore.json
-          path: "${{ steps.attestation.outputs.bundle-path }}"
+          path: "${{ env.BUILD_DIR }}/*.sigstore.json"
 
-      - name: Upload binaries to release
-        uses: ncipollo/release-action@v1
-        with:
-          tag: "v.0.0.0"
-          draft: true
-          allowUpdates: true
-          updateOnlyUnreleased: true
-          artifacts: "${{ env.BUILD_DIR }}/*.tar.gz,${{ env.BUILD_DIR }}/*.deb,${{ env.BUILD_DIR }}/*.rpm"
-
+  #    - name: Upload binaries to release
+  #      uses: ncipollo/release-action@v1
+  #      with:
+  #        tag: "v.0.0.0"
+  #        draft: true
+  #        allowUpdates: true
+  #        updateOnlyUnreleased: true
+  #        artifacts: "${{ env.BUILD_DIR }}/*.tar.gz,${{ env.BUILD_DIR }}/*.deb,${{ env.BUILD_DIR }}/*.rpm"
+  #
   # freebsd:
   #   runs-on: ubuntu-latest
   #   strategy:
