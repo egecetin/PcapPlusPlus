@@ -64,9 +64,15 @@ jobs:
         run: cmake --build "$BUILD_DIR" --target package
       
       - name: Generate artifact attestation
+        id: attestation
         uses: actions/attest-build-provenance@v1
         with:
           subject-path: "${{ env.BUILD_DIR }}/*.tar.gz,${{ env.BUILD_DIR }}/*.deb,${{ env.BUILD_DIR }}/*.rpm"
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: pcpp-sign-attestation
+          path: "${{ steps.attestation.outputs.bundle-path }}"
 
       - name: Upload binaries to release
         uses: ncipollo/release-action@v1
